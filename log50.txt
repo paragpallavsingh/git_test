@@ -1,0 +1,74 @@
+commit 8225fd4c6ea72d43a27a935d8b84a55b86f89262
+Author: Parag Pallav Singh <thakurparag6.1@gamil.com>
+Date:   Wed May 18 14:46:22 2022 +0530
+
+    gitignore succesfully made
+
+commit 65f303c3fa2761010f897d2b25019cf12c601506
+Author: Parag Pallav Singh <thakurparag6.1@gamil.com>
+Date:   Wed May 18 13:11:21 2022 +0530
+
+    check gitignore
+
+commit 014e5f30ca9eebe9e965033fc27c16717f0a0dc9
+Author: Parag Pallav Singh <thakurparag6.1@gamil.com>
+Date:   Wed May 18 12:56:36 2022 +0530
+
+    add new files finally
+
+commit 0e34413bdbf179b5d927e2a4e9b9da64ad60fa62
+Author: Parag Pallav Singh <thakurparag6.1@gamil.com>
+Date:   Wed May 18 12:47:26 2022 +0530
+
+    add fileA
+
+commit 07552116ad87da70b0fba1175e62681b9b06a171
+Merge: f810c48 e1149c4
+Author: Parag Pallav Singh <thakurparag6.1@gamil.com>
+Date:   Fri May 6 10:49:45 2022 +0530
+
+    Merge branch 'b2'
+
+commit f810c48817cffe3ce3d82d80c3ba4ec6ac096efa
+Author: Parag Pallav Singh <thakurparag6.1@gamil.com>
+Date:   Fri May 6 10:34:35 2022 +0530
+
+    fix issue in b2
+
+commit e1149c4258d53472d03e53e26074f2a939ad13a6
+Author: Parag Pallav Singh <thakurparag6.1@gamil.com>
+Date:   Fri May 6 10:34:35 2022 +0530
+
+    fix issue in b2
+
+commit ccbee57eec49dd3a65d2a7d83a85752e0168316d
+Author: Parag Pallav Singh <thakurparag6.1@gamil.com>
+Date:   Fri May 6 10:25:49 2022 +0530
+
+    add file a to branch b1
+
+commit 23e6e5fb221043a042b305aeba6c333c8c8c349e
+Author: Parag Pallav Singh <thakurparag6.1@gamil.com>
+Date:   Fri May 6 10:19:14 2022 +0530
+
+    try to cherry pick
+
+commit d221fe1aa180b9006877c7856345a24c26e17978
+Author: Parag Pallav Singh <thakurparag6.1@gamil.com>
+Date:   Fri May 6 09:57:45 2022 +0530
+
+    Revert "bad update reverted"
+    
+    This reverts commit cc278df7dbe0e555e7a191b82af41a7c729dbaea.
+
+commit cc278df7dbe0e555e7a191b82af41a7c729dbaea
+Author: Parag Pallav Singh <thakurparag6.1@gamil.com>
+Date:   Fri May 6 09:56:50 2022 +0530
+
+    add file2
+
+commit 4abff743e440f7c4a69abef80a900846833e764f
+Author: Parag Pallav Singh <thakurparag6.1@gmail.com>
+Date:   Tue Feb 22 21:34:24 2022 +0530
+
+    first commit to github
