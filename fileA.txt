@@ -1,2 +1,1 @@
-check out this file
-
+"add to fileA.txt" 
