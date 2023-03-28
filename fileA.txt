@@ -1,1 +1,2 @@
 "add to fileA.txt" 
+new add
